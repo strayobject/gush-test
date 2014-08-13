@@ -15,7 +15,7 @@ class App {
             // do something
         }
 
-        if ($txt == true) {
+        if ($txt === true) {
             //  do something
         }
     }
